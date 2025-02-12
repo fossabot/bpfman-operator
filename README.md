@@ -5,7 +5,8 @@
 [![License][apache2-badge]][apache2-url]
 ![Build status][build-badge]
 [![Book][book-badge]][book-url]
-[![Project maturity: alpha][project-maturity]]() 
+[![Project maturity: alpha][project-maturity]][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbpfman%2Fbpfman-operator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbpfman%2Fbpfman-operator?ref=badge_shield)
+() 
 [![Go report card][go-report-card-badge]][go-report-card-report]
 [![OpenSSF Scorecard][openssf-badge]][openssf-url]
 
@@ -59,3 +60,7 @@ Here are some links to help in your bpfman journey (all links are from the bpfma
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=bpfman/bpfman-operator&type=Date" />
  </picture>
 </a>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbpfman%2Fbpfman-operator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbpfman%2Fbpfman-operator?ref=badge_large)
